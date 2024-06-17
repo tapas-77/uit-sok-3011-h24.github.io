@@ -8,7 +8,8 @@
 | 37  | 13.09 |       | TK |
 | 39  | 23.09 |       | TK |
 | 39  | 24.09 |       | TK |
-| 39  | 26.09 |       | TK |
+| 39  | 26.09 | Presentasjoner      | TK |
+| 40  | 04.10 | Innlevering case I (WISEFLOW)
 | 40  | 02.10 |       | ES|
 | 41  | 09.10 |       | ES|
 | 42  | 17.10 |       | ES|
